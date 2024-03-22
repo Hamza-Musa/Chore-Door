@@ -4,4 +4,4 @@ My mission was to construct a single-page website that plays a fully-functional 
 ![](https://github.com/namvdo/chore-door-game-codecademy-project/blob/master/Screenshot.png)
 
 
-Codecademy Pro Project called Chore Door. It's a game that uses HTML, CSS, and JavaScript. This website project can be viewed here <a src="hamza-musa.github.io/Chore-Door/">Link Here</a>
+Codecademy Pro Project called Chore Door. It's a game that uses HTML, CSS, and JavaScript. This website project can be viewed here <a href="hamza-musa.github.io/Chore-Door/">Link Here</a>
